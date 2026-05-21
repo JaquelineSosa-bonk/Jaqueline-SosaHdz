@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\PuntoVentaDulces\PuntoVentaDulces\bin\Debug\net8.0\PuntoVentaDulces.deps.json
+C:\Users\Lenovo\Desktop\PuntoVentaDulces\PuntoVentaDulces\bin\Debug\net8.0\PuntoVentaDulces.dll
+C:\Users\Lenovo\Desktop\PuntoVentaDulces\PuntoVentaDulces\bin\Debug\net8.0\PuntoVentaDulces.pdb
+C:\Users\Lenovo\Desktop\PuntoVentaDulces\PuntoVentaDulces\obj\Debug\net8.0\PuntoVentaDulces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\PuntoVentaDulces\PuntoVentaDulces\obj\Debug\net8.0\PuntoVentaDulces.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\PuntoVentaDulces\PuntoVentaDulces\obj\Debug\net8.0\PuntoVentaDulces.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\PuntoVentaDulces\PuntoVentaDulces\obj\Debug\net8.0\PuntoVentaDulces.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\PuntoVentaDulces\PuntoVentaDulces\obj\Debug\net8.0\PuntoVentaDulces.dll
+C:\Users\Lenovo\Desktop\PuntoVentaDulces\PuntoVentaDulces\obj\Debug\net8.0\refint\PuntoVentaDulces.dll
+C:\Users\Lenovo\Desktop\PuntoVentaDulces\PuntoVentaDulces\obj\Debug\net8.0\PuntoVentaDulces.pdb
+C:\Users\Lenovo\Desktop\PuntoVentaDulces\PuntoVentaDulces\obj\Debug\net8.0\ref\PuntoVentaDulces.dll
+C:\Users\Lenovo\Desktop\PuntoVentaDulces\PuntoVentaDulces\bin\Debug\net8.0\PuntoVentaDulces.exe
+C:\Users\Lenovo\Desktop\PuntoVentaDulces\PuntoVentaDulces\bin\Debug\net8.0\PuntoVentaDulces.runtimeconfig.json
+C:\Users\Lenovo\Desktop\PuntoVentaDulces\PuntoVentaDulces\obj\Debug\net8.0\PuntoVentaDulces.genruntimeconfig.cache
